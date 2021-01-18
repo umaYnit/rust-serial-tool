@@ -1,0 +1,11 @@
+[package]
+name = "rust_serial_tool"
+version = "0.1.0"
+authors = ["Ynit <393227384@qq.com>"]
+edition = "2018"
+
+
+[dependencies]
+serialport = "4.0"
+crossterm = "0.19"
+pbr = "1.0"
